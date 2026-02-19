@@ -32,14 +32,14 @@ This project emphasizes **conceptual modeling and visualization**, not predictiv
 ### Earthquake Dynamics
 The plots below show earthquake displacement, velocity, and aftershock activity over time.
 
-![Earthquake dynamics](figures/earthquake_dynamics.png)
+<img width="1255" height="789" alt="earthquake_dynamics" src="https://github.com/user-attachments/assets/d19ba34f-6181-4e83-8abc-f26f144d0d3e" />
 
 ---
 
 ### Tsunami Propagation
 This figure visualizes tsunami wave height as a function of distance from the epicenter at multiple time snapshots.
 
-![Tsunami propagation](figures/tsunami_propagation.png)
+<img width="1300" height="940" alt="tsunami_propagation" src="https://github.com/user-attachments/assets/8ba833fd-c062-403b-a309-8f675ee05550" />
 
 ---
 
